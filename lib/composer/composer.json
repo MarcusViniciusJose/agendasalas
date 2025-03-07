@@ -1,0 +1,17 @@
+{
+    "name": "aero/calendar",
+    "description": "Calendário Agenda Sala de reunião.",
+    "authors": [
+        {
+            "name": "Marcus Vinicius José",
+            "email": "marcusvinicius.mjv@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../models"
+        }
+    }
+}
