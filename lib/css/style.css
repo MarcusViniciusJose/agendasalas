@@ -10,3 +10,9 @@
     margin: 30px auto;
     height: 80vh;
 }
+
+.calendarUser, .calendarManager{
+    width: 80%;
+    margin: 30px auto;
+    height: 80vh;
+}

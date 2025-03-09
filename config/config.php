@@ -12,11 +12,6 @@ define('USER', 'root');
 define('PASS', '');
 
 #Incluir arquivos
-include(DIRREQ . 'AGENDASALAS/lib/composer/vendor/autoload.php');
-
-
-
-
-
+include(DIRREQ . 'agendasalas/lib/composer/vendor/autoload.php');
 
 ?>
